@@ -1,0 +1,9 @@
+{
+  "name": "beautyshop-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mini-API BeautyShop sans dépendance pour l'application Ionic",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
