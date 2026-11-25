@@ -26,6 +26,6 @@ const app = createApp(App)
   .use(router);    // active la navigation
 
 
-Promise.all([router.isReady(), restaurerPanier(), restaurerFavoris()]).then(() => {
+Promise.all([router.isReady()]).then(() => {
   app.mount('#app');
 });
