@@ -31,3 +31,30 @@
 - [ ] Consultation des détails d'une commande
 - [ ] Consultation du statut d'une commande
 - [ ] Consultation et modification du profil utilisateur
+
+## Répartition des tâches
+
+### 👩‍💻 Personne 1 — Authentification et commandes
+
+- [ ] Inscription d'un utilisateur
+- [ ] Connexion / Déconnexion
+- [ ] Consultation du profil utilisateur
+- [ ] Modification du profil utilisateur
+- [ ] Validation d'une commande
+- [ ] Enregistrement d'une commande dans Firebase
+- [ ] Consultation de l'historique des commandes
+- [ ] Consultation des détails d'une commande
+- [ ] Consultation du statut d'une commande
+
+### 👩‍💻 Personne 2 — Produits et panier
+
+- [ ] Affichage de la liste des produits
+- [ ] Consultation des détails d'un produit
+- [ ] Recherche d'un produit par son nom
+- [ ] Filtrage des produits par catégorie
+- [ ] Tri des produits par prix (croissant / décroissant)
+- [ ] Ajout d'un produit au panier
+- [ ] Consultation du panier
+- [ ] Modification des quantités dans le panier
+- [ ] Suppression d'un produit du panier
+- [ ] Calcul automatique du montant total
